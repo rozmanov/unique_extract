@@ -9,3 +9,9 @@ The script will function to extract the unique values from a column from a .csv 
 
 # List of dependencies.
 
+* Bash sell;
+* Something else in the air...
+
+
+
+
